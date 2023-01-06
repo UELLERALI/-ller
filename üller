@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ÜLLER ALI</title>
+  <style>
+    body {
+      background-color: #00ff00;
+    }
+    .letters {
+      font-size: 0;
+      line-height: 0;
+      text-indent: -9999px;
+      width: 100%;
+      height: 100%;
+      background: url(https://i.imgur.com/dOJ1QQ4.png) no-repeat;
+    }
+    h1 {
+      font-family: "Times New Roman", Times, serif;
+      color: #ffffff;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="letters">ÜA</div>
+  <h1>ÜLLER ALI</h1>
+</body>
+</html>
